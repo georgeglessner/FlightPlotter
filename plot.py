@@ -31,7 +31,7 @@ def my_plotter(xaxis, yaxis):
     plt.gca().xaxis.set_minor_locator(mdates.DayLocator())
     plt.title("Flights")
     plt.xlabel("Date")
-    plt.ylabel("# of Uniqure Flights")
+    plt.ylabel("# of Unique Flights")
     plt.savefig("FlightPlot.png")
 
 

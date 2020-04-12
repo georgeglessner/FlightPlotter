@@ -8,4 +8,4 @@ Note: Before you run the script you will need to change the URL on [line 4 of th
 
 `pip3 install -r requirements.txt`
 
-`bash getdata.sh`
+`bash plotdata.sh`
